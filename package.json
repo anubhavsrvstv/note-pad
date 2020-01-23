@@ -1,0 +1,11 @@
+{
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "my first node app after long time",
+  "main": "app.js",
+  "scripts": {
+  	"start": "node app.js"
+  },
+  "author": "Anubhav",
+  "license": "ISC"
+}
